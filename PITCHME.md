@@ -1,10 +1,14 @@
-# Flux 
+# Kuberlab 
 
-An application architecture for React
+Enterprise Machine Learning 
+
+- Development Workflow
+- Production Workflow
+
 
 ---
 
-### Flux Design
+### Kuberlab Design
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
@@ -12,5 +16,5 @@ An application architecture for React
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Kuberlab Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
 
