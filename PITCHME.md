@@ -10,14 +10,14 @@ v 1.2
 ## Build * Train * Deploy
 ---
 
-1. What you can do with Kuberlab?
-2. What do you need start using Kuberlab?
-4. Short tour of Kuberlab 
-5. Setup your Kuberlab environment
-6. Your first project
+1. What can you do with Kuberlab?
+2. What do you need to start using Kuberlab?
+4. A short tour of Kuberlab 
+5. How to setup your Kuberlab environment
+6. Build your first project
 
 ---
-### What you can do with Kuberlab?
+### 1 What you can do with Kuberlab?
 - Develop machine learning algorithms
 - Create machine learning pipeline
 - Use pre-trained models
