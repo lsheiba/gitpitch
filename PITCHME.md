@@ -2,22 +2,29 @@
 # Kuberlab 
 
 +++
+
 # Machine Learning Platform
+
 +++
-# Cloud-Native Machine Learning Development Experience
-+++
+
 # Build Train Deploy
 
 ---
 
 - What you can do with Kuberlab
-- What do you need to use Kuberlab
-- Short tour of Kuberlab environment
-- Setup your Kuberlab
+- What do you need to have to use Kuberlab
+- Short tour of Kuberlab 
+- Setup your Kuberlab environment
 - Your first project
 
 ---
-### What you can do with Kuberlab
+### What you can do with Kuberlab?
+- Develop machine learning algorithms
+- Create machine learning pipeline
+- Use pre-trained models
+- Train machine learning models  
+- Deploy trained models
+
 ---
 ### Kuberlab Setup
   - Login to Kuberlab service using your Google or Github account
