@@ -1,3 +1,5 @@
+footnote : "© 2017 Kuberlab Inc."
+
 # Kuberlab 
 +++
 # Machine Learning Platform
