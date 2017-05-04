@@ -1,19 +1,19 @@
 
 ## Kuberlab Cloud Platform
 ---
-for
+## for
 ---
 ## Artificial Intelligence 
 ---
 
-## Build - Train - Deploy
+## Build * Train * Deploy
 ---
 
-- What you can do with Kuberlab
-- What do you need to have to use Kuberlab
-- Short tour of Kuberlab 
-- Setup your Kuberlab environment
-- Your first project
+1 What you can do with Kuberlab?
+2 What do you need start using Kuberlab?
+4 Short tour of Kuberlab 
+5 Setup your Kuberlab environment
+6 Your first project
 
 ---
 ### What you can do with Kuberlab?
