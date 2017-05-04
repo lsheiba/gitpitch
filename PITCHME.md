@@ -1,14 +1,12 @@
 
-## Kuberlab 
+## Kuberlab Cloud Platform
+---
+for
+---
+## Artificial Intelligence 
+---
 
-+++
-
-## Machine Learning Platform
-
-+++
-
-## Build Train Deploy
-
+## Build - Train - Deploy
 ---
 
 - What you can do with Kuberlab
