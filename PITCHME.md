@@ -33,7 +33,5 @@
 - Views: Render Data via React
 
 ---
-
-
-![Kuberlab Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+https://github.com/lsheiba/gitpitch/blob/master/ai_difference_between_deep_learning_training_inference.jpg
 
