@@ -33,5 +33,5 @@
 - Views: Render Data via React
 
 ---
-![Deep Learning](https://github.com/lsheiba/gitpitch/blob/master/ai_difference_between_deep_learning_training_inference.jpg)
+![Deep Learning](ai_difference_between_deep_learning_training_inference.jpg)
 
