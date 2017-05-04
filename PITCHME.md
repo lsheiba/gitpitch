@@ -17,9 +17,12 @@
 - Your first project
 
 ---
-
-1. Setup
-  a. Login to Kuberlab service using your Google or Github account
+### What you can do with Kuberlab
+---
+### Kuberlab Setup
+  - Login to Kuberlab service using your Google or Github account
+  
+  
 
 ---
 
