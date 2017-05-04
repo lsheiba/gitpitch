@@ -1,10 +1,11 @@
 # Kuberlab 
+# Machine Learning Platform
 
-Cloud-native Machine Learning Experience 
-
+# Cloud-Native Machine Learning Development Experience
+-------------------------
 - What you can do with Kuberlab
 - What do you need to use Kuberlab
-- Short tour of Kuberlan environment
+- Short tour of Kuberlab environment
 - Setup your Kuberlab
 - Your first project
 - 
