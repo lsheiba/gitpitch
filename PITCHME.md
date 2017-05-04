@@ -10,11 +10,11 @@ v 1.1
 ## Build * Train * Deploy
 ---
 
-1 What you can do with Kuberlab?
-2 What do you need start using Kuberlab?
-4 Short tour of Kuberlab 
-5 Setup your Kuberlab environment
-6 Your first project
+1. What you can do with Kuberlab?
+2. What do you need start using Kuberlab?
+4. Short tour of Kuberlab 
+5. Setup your Kuberlab environment
+6. Your first project
 
 ---
 ### What you can do with Kuberlab?
